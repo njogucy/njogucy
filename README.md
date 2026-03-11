@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @njogucy
-- 👀 I’m interested in web development
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning mathematics and computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me njogucy067@gmail.com
